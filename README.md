@@ -1,4 +1,4 @@
-# Azure Infrastructure Operations: Deploy a scalable IaaS web server in Azure
+# Microsoft Azure: Deploy a IaaS web server
 
 ## Introduction
 
